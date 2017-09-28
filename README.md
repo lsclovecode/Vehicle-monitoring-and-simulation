@@ -2,12 +2,7 @@
 Uber_simulation_System
 
 ## High level design
-<p align="center">
-  <img src='https://imgur.com/a/deYbD'/>
-</p>
-
+![alt text](https://imgur.com/a/deYbD)
 
 ## Demo
-<p align="center">
-  <img src='https://imgur.com/a/jDMP4'/>
-</p>
+![alt text](https://imgur.com/a/jDMP4)
